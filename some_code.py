@@ -1,9 +1,5 @@
 
-some_variable = 1111
+some_variable = 9999
 
 def some_method():
-    return
-
-
-def some_other_method():
     return
